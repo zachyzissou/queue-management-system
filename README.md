@@ -1,3 +1,6 @@
+> **License Notice**
+> This repository is source-visible only. Copies that are technically necessary to view, read, or review the source are permitted, but use, modification, redistribution, deployment, or commercial use is not permitted without prior written permission from Zach Gonser. See `LICENSE` for details.
+
 # queue-management-system
 
 > Status: `archival candidate`
