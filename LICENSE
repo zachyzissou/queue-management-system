@@ -1,16 +1,17 @@
 # SlurpNet Source-Visible License v1.0
 
-Copyright (c) 2026 Zach Gonser and contributors authorized by Zach Gonser.
+Copyright (c) 2026 Zach Gonser.
 All rights reserved.
 
 ## Grant of access
 You may view and read this source code solely for personal reference.
+You may also make copies or reproductions only to the limited extent technically necessary to access, download, cache, display, or locally inspect the source code for that personal reference purpose.
 
 ## No permission granted
-Except for the limited right to view the source code, no other rights are granted.
+Except for the limited rights expressly granted above, no other rights are granted.
 Without prior written permission from Zach Gonser, you may not:
 - use this code or any substantial portion of it in production or non-production systems,
-- copy, reproduce, modify, adapt, translate, or create derivative works,
+- except for copies or reproductions expressly permitted above, copy, reproduce, modify, adapt, translate, or create derivative works,
 - distribute, sublicense, sell, lease, lend, publish, or transfer the code,
 - deploy the code, or any modified version of it, for personal, internal, commercial, or public use,
 - use the code to provide hosted or managed services,
@@ -18,6 +19,7 @@ Without prior written permission from Zach Gonser, you may not:
 
 ## Contributions
 Unless explicitly agreed otherwise in writing, any contribution, patch, pull request, or suggestion submitted for this repository may be rejected and does not grant you any rights to this codebase.
+By submitting a contribution, you represent that you have the legal right to do so. If your contribution is accepted, you grant Zach Gonser a perpetual, irrevocable, worldwide, non-exclusive, royalty-free, fully paid, sublicensable license to use, copy, reproduce, modify, adapt, publish, distribute, prepare derivative works of, publicly display, publicly perform, and otherwise exploit that contribution as part of this repository and any related works, without compensation or attribution beyond any attribution already required by applicable law.
 
 ## Trademark and branding
 No trademark, service mark, trade name, logo, or brand feature license is granted.
